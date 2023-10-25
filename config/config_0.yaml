@@ -1,0 +1,9 @@
+camera_name: webcam
+max_fps: 10
+num_threads: 2
+resize_factor: 1
+source: 0
+stream_endpoint: /ai-stream
+stream_host: 0.0.0.0
+stream_port: 5001
+emo_period: 5
